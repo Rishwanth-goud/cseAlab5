@@ -1,6 +1,6 @@
 public class Sample
 {
-	public static void main(Strinf args[])
+	public static void main(String args[])
 	{
 		System.out.println("Rishwanth");
 	}
